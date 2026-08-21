@@ -1,0 +1,11 @@
+2026-08-21 23:41:13 - Viewed CPU and memory usage
+2026-08-21 23:41:21 - Listed top 10 memory consuming processes
+2026-08-21 23:41:26 - Failed termination attempt - invalid PID ww
+2026-08-21 23:41:36 - System exited by user
+2026-08-21 23:48:04 - Inspected disk usage for /home/nishan/sensor_logs
+2026-08-21 23:54:28 - Archived large log file sensor1.log as sensor1_20260821_235428.tar.gz
+2026-08-21 23:55:41 - Listed top 10 memory consuming processes
+2026-08-21 23:57:12 - Terminated process iot_manager.sh (PID 2025)
+2026-08-21 23:58:35 - Terminated process sleep (PID 2097)
+2026-08-21 23:59:50 - Blocked attempt to terminate critical process bash (PID 1028)
+2026-08-22 00:00:35 - System exited by user
