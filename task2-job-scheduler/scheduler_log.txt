@@ -1,0 +1,14 @@
+2026-08-22 00:07:52 - StudentID:1 - Job:Software Engineer - Type:N/A - Job submitted (ExecTime:12s, Priority:2)
+2026-08-22 00:08:04 - StudentID:2 - Job:ASE - Type:N/A - Job submitted (ExecTime:8s, Priority:1)
+2026-08-22 00:08:33 - StudentID:3 - Job:ML - Type:N/A - Job submitted (ExecTime:15s, Priority:5)
+2026-08-22 00:08:52 - StudentID:2 - Job:ASE - Type:Priority - Job completed
+2026-08-22 00:08:52 - StudentID:1 - Job:Software Engineer - Type:Priority - Job completed
+2026-08-22 00:08:52 - StudentID:3 - Job:ML - Type:Priority - Job completed
+2026-08-22 00:10:39 - StudentID:IT101 - Job:BigJob - Type:N/A - Job submitted (ExecTime:18s, Priority:3)
+2026-08-22 00:10:55 - StudentID:IT102 - Job:SmallJob - Type:N/A - Job submitted (ExecTime:7s, Priority:1)
+2026-08-22 00:11:12 - StudentID:IT101 - Job:BigJob - Type:Round Robin - Executed 5s, remaining 13s
+2026-08-22 00:11:12 - StudentID:IT102 - Job:SmallJob - Type:Round Robin - Executed 5s, remaining 2s
+2026-08-22 00:11:12 - StudentID:IT101 - Job:BigJob - Type:Round Robin - Executed 5s, remaining 8s
+2026-08-22 00:11:12 - StudentID:IT102 - Job:SmallJob - Type:Round Robin - Job completed
+2026-08-22 00:11:12 - StudentID:IT101 - Job:BigJob - Type:Round Robin - Executed 5s, remaining 3s
+2026-08-22 00:11:12 - StudentID:IT101 - Job:BigJob - Type:Round Robin - Job completed
