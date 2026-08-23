@@ -1,0 +1,8 @@
+2026-08-23 19:49:42 - SubmitFailed - StudentID:1 - File not found: IT201
+2026-08-23 19:50:47 - SubmitSuccess - StudentID:IT201 - File:sample1.pdf - Hash:ea3797c9a6bda1674f3c1fc006f74cb0c36a9d21f44bb415b138fa14bbd96300
+2026-08-23 19:51:31 - SubmitSuccess - StudentID:IT202 - File:sample2.docx - Hash:af5bba7c69221b112940af9e238e4b8a0b46b899d8bcbb613f2aa5da5d726900
+2026-08-23 19:51:48 - SubmitRejected - StudentID:IT203 - Invalid file type: sample3.txt
+2026-08-23 19:52:15 - SubmitRejected - StudentID:IT204 - File too large: oversized.pdf (6291456 bytes)
+2026-08-23 19:52:41 - SubmitRejected - StudentID:IT201 - Duplicate submission: sample1.pdf
+2026-08-23 19:53:18 - CheckSubmission - StudentID:IT201 - File:sample1.pdf
+2026-08-23 19:54:26 - LoginFailed - StudentID:IT301 - Attempt 1
