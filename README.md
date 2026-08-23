@@ -29,7 +29,6 @@ U19965-AOS-Assignment1/
 └── README.md
 
 
-
 ---
 
 ## Task 1 — Smart Campus IoT Device Management (Bash)
@@ -100,27 +99,14 @@ chmod +x submission_auth.sh
 
 ## Report
 
-An 800-word report (in `report/`) covers:
-- Design choices and command justification
-- Connection to advanced OS concepts (process management, scheduling algorithms, file system operations, automation)
-- At least three academic/technical references (Harvard style)
-- Challenges encountered and resolutions
-- Execution steps and expected output with screenshots
-
----
-
-## Marking Scheme
-
-| Component | Marks |
-|---|---|
-| Task 1 — IoT Device Management System | 30 |
-| Task 2 — Research Cluster Job Scheduler | 30 |
-| Task 3 — Student Project Submission System | 30 |
-| Report Writeup | 10 |
-| **Total** | **100** |
+An 800-word report (in `report/`) covers design choices, connection to advanced OS concepts, references, challenges encountered, and execution steps with screenshots.
 
 ---
 
 ## Author
 
 Nishan Jayawickrama — B.Eng (Hons) Software Engineering, Cohort 5
+EOF
+
+
+
